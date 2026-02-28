@@ -3,7 +3,7 @@ This project demonstrates satellite beam steering using STK-driven orbital geome
 
 Master File :
 
-This file calls STK application (ver 11) from MATLAB then creates Satellite and Ground Station using .Children function, 
+This file calls STK application (ver 11) from MATLAB then creates Satellite and Ground Station using .NewChildren function, 
 then gets the azimuth and elevation angle using the function aer() ( which is a inbuilt function of Ansys STK )
 then it computes the steering vector -> weight -> DAS Beamformer 
 then plots the graph for one particular angular position of the sateillite from that bunch ( azimuth(i) , elevation(i) ).
