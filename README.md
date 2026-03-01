@@ -13,7 +13,8 @@ then it computes the steering vector -> weight -> DAS Beamformer
 then plots the graph for one particular angular position of the sateillite from that bunch ( azimuth(i) , elevation(i) ).
 
 ### Slave file 1 ( URA_vector ) :
-This function file computes the steering vector using the angle recieved from Ansys STK which is Azimuth and Elevation 
+This function file computes the steering vector using the angle recieved from Ansys STK which is Azimuth and Elevation .
+
 ***definition :*** the steering vector is a matrix that represents the relative phase of each element.
 
 reference :
