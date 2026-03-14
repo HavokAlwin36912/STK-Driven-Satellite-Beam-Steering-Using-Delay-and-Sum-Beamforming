@@ -28,6 +28,6 @@ This function file computes the steering vector using the angle recieved from An
 
 ### ***Reference :***
 [Information about MUSIC used for DOA estimation (future works)](https://forums.ni.com/t5/LabVIEW/Steering-Vector-of-the-Vector-Antenna-in-LabView/td-p/4220010) <br>
-[Inspiration to improve the steering vector(future works)](https://www.sharetechnote.com/html/TechSlide/html/antennaRadiation_Steering_exp_var_p_01.html) <br>
+[Inspiration to improve the steering vector (future works)](https://www.sharetechnote.com/html/TechSlide/html/antennaRadiation_Steering_exp_var_p_01.html) <br>
 
 ### ***Problems yet to solve :***
